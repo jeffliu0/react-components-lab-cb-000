@@ -11,6 +11,9 @@ const BUTCHER_PRODUCTS = [
 // Define these exported classes
 export class OlderCoaster extends React.Component {
   // your code here
+  render(){
+    
+  }
 }
 
 export class InFrontOfYou extends React.Component {
